@@ -40,3 +40,5 @@ You don't need to know how to code to help with this project.
 
 5\. It gets merged in — done!
 
+\- Suggest translations or simpler wording for non-native English speakers
+
